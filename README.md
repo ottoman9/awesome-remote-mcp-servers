@@ -349,7 +349,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔐 - Art-direct 3D device mockups, App Store screenshot sets and launch videos for your app.
 - [SVG Lab](https://svglab.app/mcp-server) `https://svglab.app/mcp/agents`
   [![SVG Lab MCP connector](https://glama.ai/mcp/connectors/app.svglab/svglab/badges/score.svg)](https://glama.ai/mcp/connectors/app.svglab/svglab)
-  🔐 - Designs editable vector app screens, icons, illustrations and charts in your SVG Lab projects via its Design Engine.
+  🔓 - Designs editable vector app screens, icons, illustrations and charts in your SVG Lab projects via its Design Engine; tool calls need an SVG Lab sign-in (OAuth) or key.
 - [UXKIN](https://uxkin.com) `https://uxkin.com/mcp`
   [![UXKIN MCP connector](https://glama.ai/mcp/connectors/io.github.uxkin/uxkin/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.uxkin/uxkin)
   🔐 - Real iOS app screens, user journeys and website design systems for AI coding agents.
