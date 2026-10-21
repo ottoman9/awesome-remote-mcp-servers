@@ -420,7 +420,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔐 - Art-direct 3D device mockups, App Store screenshot sets and launch videos for your app.
 - [SVG Lab](https://svglab.app/mcp-server) `https://svglab.app/mcp/agents`
   [![SVG Lab MCP connector](https://glama.ai/mcp/connectors/app.svglab/svglab/badges/score.svg)](https://glama.ai/mcp/connectors/app.svglab/svglab)
-  🔓 - Designs editable vector app screens, icons, illustrations and charts in your SVG Lab projects via its Design Engine; tool calls need an SVG Lab sign-in (OAuth) or key.
+  🔐 - Designs editable vector app screens, icons, illustrations and charts in your SVG Lab projects.
 - [Tastepix](https://tastepix.com/?ref=github-awesome-remote) `https://mcp.tastepix.com/mcp`
   [![Tastepix MCP connector](https://glama.ai/mcp/connectors/io.github.paablobello/tastepix/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.paablobello/tastepix)
   🔐 - Generate and edit images with 12 models (Nano Banana, GPT Image, FLUX…) from chat; pay per image, no API keys.
